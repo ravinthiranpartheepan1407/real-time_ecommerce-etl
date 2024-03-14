@@ -1,0 +1,7 @@
+pyspark
+kafka
+faker
+logging
+vertezml
+pandas
+python-dotenv
